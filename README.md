@@ -1,0 +1,1 @@
+A repo for memorizing anything where nouns act on objects in 3d mental spaces. 
